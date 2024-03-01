@@ -4,6 +4,10 @@
   <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_longm.png" alt="Badge du projet so_long">
 </div>
 
+<div align="center">
+  <img src=["URL_A_REMPLACER_PAR_IMAGE_DU_PROJET"](https://github.com/Omisev/cub3D/blob/main/screenshot.png) alt="Badge du projet cub3D">
+</div>
+
 ## Description
 Le projet `cub3D` vise à recréer une expérience inspirée du jeu historique Wolfenstein 3D, considéré comme le premier FPS jamais développé. Ce projet permet d'explorer les techniques de ray-casting pour générer une vue en 3D dans un labyrinthe à partir d'une carte en 2D.
 
