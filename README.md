@@ -1,11 +1,11 @@
 # **Projet cub3D**
-
-<div align="center">
-  <img src="https://github.com/Omisev/cub3D/blob/main/screenshot.png" alt="sreenshot">
-</div>
-
 <div align="center">
   <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png?raw=true" alt="Badge du projet cub3d">
+</div>
+
+##
+<div align="center">
+  <img src="https://github.com/Omisev/cub3D/blob/main/screenshot.png" alt="sreenshot">
 </div>
 
 ## Description
@@ -32,7 +32,7 @@ make bonus
 
 ## Utilisation
 ```
-./so_long [Nom_de_la_carte]
+./so_long ./cub3D maps/good/bonus/cub3d.cub
 ```
 
 ## Options
