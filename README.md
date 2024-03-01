@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_longm.png" alt="Badge du projet cub3d">
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png?raw=true" alt="Badge du projet cub3d">
 </div>
 
 ## Description
