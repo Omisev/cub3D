@@ -1,11 +1,11 @@
 # **Projet cub3D**
 
 <div align="center">
-  <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_longm.png" alt="Badge du projet so_long">
+  <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_longm.png" alt="Badge du projet cub3d">
 </div>
 
 <div align="center">
-  <img src=["URL_A_REMPLACER_PAR_IMAGE_DU_PROJET"](https://github.com/Omisev/cub3D/blob/main/screenshot.png) alt="Badge du projet cub3D">
+  <img src="https://github.com/Omisev/cub3D/blob/main/screenshot.png" alt="sreenshot">
 </div>
 
 ## Description
