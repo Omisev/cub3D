@@ -32,7 +32,7 @@ make bonus
 
 ## Utilisation
 ```
-./so_long ./cub3D maps/good/bonus/cub3d.cub
+./cub3D maps/good/bonus/cub3d.cub
 ```
 
 ## Options
