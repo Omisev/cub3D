@@ -5,6 +5,11 @@
 
 ##
 <div align="center">
+  <img src="https://github.com/Omisev/cub3D/blob/main/cub3d_representation.webp" alt="cub3d representation">
+</div>
+
+##
+<div align="center">
   <img src="https://github.com/Omisev/cub3D/blob/main/screenshot.png" alt="sreenshot">
 </div>
 
