@@ -30,7 +30,7 @@ Le projet `cub3D` vise à recréer une expérience inspirée du jeu historique W
 
 ## Installation et Compilation
 ```
-git clone git@github.com:Omisev/cub3D.git
+git clone git@github.com:raveriss/cub3D.git
 cd cub3D
 make bonus
 ```
